@@ -18,7 +18,7 @@ This is not a framework or SDK — it is a living knowledge base built from real
 
 ---
 
-## Why multi-model workflows matter
+## Why multi-model workflows does matter
 
 Creators increasingly rely on different AI engines for:
 - cinematic video
