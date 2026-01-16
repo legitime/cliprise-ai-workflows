@@ -46,3 +46,7 @@ This repository is actively evolving.
 New workflows, prompts, and benchmarks are added regularly.
 
 Contributions, discussions, and suggestions are welcome.
+
+---
+Maintained by the Cliprise team.
+
