@@ -1,4 +1,4 @@
-# Cliprise – Multi-Model AI Image & Video Workflows
+# Cliprise - Multi-Model AI Image & Video Workflows
 
 This repository documents practical workflows, prompt structures, and experiments for working with multiple AI image and video generation models in a single creative pipeline.
 
@@ -14,7 +14,7 @@ The goal is to reduce tool-switching, standardize outputs, and improve iteration
 - Model comparison notes (image vs video engines)
 - Practical experiments and lessons learned
 
-This is not a framework or SDK — it is a living knowledge base built from real usage.
+This is not a framework or SDK - it is a living knowledge base built from real usage.
 
 ---
 
@@ -50,3 +50,12 @@ Contributions, discussions, and suggestions are welcome.
 ---
 Maintained by the Cliprise team.
 
+<!-- CLIPRISE_LINKING_START -->
+## Related Cliprise GitHub resources
+
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+- [Best AI image generator resources](https://github.com/cliprise/best-ai-image-generator-resources) - tested rankings, use-case fit, and editing paths for AI image generation.
+- [Awesome image-to-video prompts](https://github.com/cliprise/awesome-image-to-video-prompts) - still-to-motion workflows, camera language, and source-frame discipline.
+- [Awesome AI video generator prompts](https://github.com/cliprise/awesome-ai-video-generator-prompts) - prompt systems for text-to-video and multi-step video workflows.
+- [Awesome AI image generator prompts](https://github.com/cliprise/awesome-ai-image-generator-prompts) - image generation prompts across marketing, product, and social use cases.
+<!-- CLIPRISE_LINKING_END -->
